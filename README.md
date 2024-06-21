@@ -1,6 +1,6 @@
 # CryptoClustering
 
-
+![CryptoClusteringImage](https://www.europeanbusinessreview.com/wp-content/uploads/2021/03/bitcoinrising.png)
 ## Project Overview
 
 This project utilizes Python and unsupervised learning techniques to analyze and cluster cryptocurrency data. By examining the effects of 24-hour and 7-day price changes, we aim to identify patterns and group cryptocurrencies into meaningful clusters. The primary steps include data preprocessing, dimensionality reduction, and K-means clustering, both with the original data and data transformed via Principal Component Analysis (PCA).
