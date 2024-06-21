@@ -11,7 +11,7 @@ This project utilizes Python and unsupervised learning techniques to analyze and
 ### Optimal Number of Clusters:
 The elbow curve analysis indicated that the best value for 
 𝑘
-k is 4, suggesting that 4 clusters are optimal for both the original and PCA-transformed data.
+ is 4, suggesting that 4 clusters are optimal for both the original and PCA-transformed data.
 
 ### Explained Variance of PCA:
 The three principal components account for a total explained variance of 0.895, indicating that these components capture a significant portion of the data's variance.
