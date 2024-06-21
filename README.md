@@ -25,6 +25,7 @@ The elbow curve for the PCA data showed a lower inertia value compared to the or
 
 
 
+The data used in this project can be found in the `Resources` directory of this repository. 
 
 
 # **Instructions**
