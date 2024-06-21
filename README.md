@@ -6,7 +6,18 @@
 This project utilizes Python and unsupervised learning techniques to analyze and cluster cryptocurrency data. By examining the effects of 24-hour and 7-day price changes, we aim to identify patterns and group cryptocurrencies into meaningful clusters. The primary steps include data preprocessing, dimensionality reduction, and K-means clustering, both with the original data and data transformed via Principal Component Analysis (PCA).
 
 
+## Findings
 
+### Optimal Number of Clusters:
+The elbow curve analysis indicated that the best value for 
+𝑘
+k is 4, suggesting that 4 clusters are optimal for both the original and PCA-transformed data.
+
+### Explained Variance of PCA:
+The three principal components account for a total explained variance of 0.895, indicating that these components capture a significant portion of the data's variance.
+
+### Impact of Using PCA for Clustering:
+The elbow curve for the PCA data showed a lower inertia value compared to the original data, indicating improved clustering performance with tighter groupings of data points. Visual analysis of the clusters revealed that using PCA resulted in more distinct and non-overlapping clusters, effectively highlighting clearer patterns in the data. This suggests that reducing the number of features through PCA helps in achieving more meaningful and separable clusters.
 
 
 
