@@ -21,7 +21,7 @@ The elbow curve for the PCA data showed a lower inertia value compared to the or
 
 
 
-
+https://static.bc-edx.com/data/dl-1-2/m19/lms/img/scaled_DataFrame.png
 
 
 
