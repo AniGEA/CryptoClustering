@@ -20,7 +20,7 @@ The three principal components account for a total explained variance of 0.895, 
 The elbow curve for the PCA data showed a lower inertia value compared to the original data, indicating improved clustering performance with tighter groupings of data points. Visual analysis of the clusters revealed that using PCA resulted in more distinct and non-overlapping clusters, effectively highlighting clearer patterns in the data. This suggests that reducing the number of features through PCA helps in achieving more meaningful and separable clusters.
 
 
-
+## Data 
 ![Data](https://static.bc-edx.com/data/dl-1-2/m19/lms/img/scaled_DataFrame.png)
 
 
@@ -30,6 +30,7 @@ The elbow curve for the PCA data showed a lower inertia value compared to the or
 # **Instructions**
 
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
+
 Load the crypto_market_data.csv into a DataFrame.
 Get the summary statistics and plot the data to see what the data looks like before proceeding.
 Prepare the Data
